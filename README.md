@@ -1,7 +1,7 @@
 **##FOCUS:
-npm install bootstrap
-npm install react-icons
-npm install react-speech-recognition**
+#npm install bootstrap
+#npm install react-icons
+#npm install react-speech-recognition**
 
 # Getting Started with Create React App
 
